@@ -11,7 +11,7 @@ a:hover
 h1{
   text-align: center;
   text-decoration: underline;
-  color:orange;
+  color:darkblue;
   font-style:oblique;
   font-weight:400;
   font-family:papyrus,fantasy;
@@ -25,7 +25,7 @@ h2
   font-weight:bold;
   font-family:lucida bright,serif;
   font-size: 1.5rem;
-  background-color:linen;
+  
 
 }
 h3{
@@ -35,7 +35,7 @@ h3{
 }
 body{
   background-color: khaki;
-  color:orangered;
+  color:maroon;
   font-size:1.7rem;
   font-family:papyrus,fantasy;
   font-weight:bold;
