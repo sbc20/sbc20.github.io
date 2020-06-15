@@ -1,0 +1,44 @@
+a{ text-decoration: none;
+
+color:blue;
+}
+a:hover
+{
+  text-decoration: none;
+  color:red;
+
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color:orange;
+  font-style:oblique;
+  font-weight:400;
+  font-family:papyrus,fantasy;
+  background-color: mistyrose;
+  font-size: 4rem;
+}
+h2
+{
+  color:darkred;
+  font-style: oblique;
+  font-weight:bold;
+  font-family:lucida bright,serif;
+  font-size: 1.5rem;
+  background-color:linen;
+
+}
+h3{
+  font-size:2.7rem;
+  font-weight:bolder;
+
+}
+body{
+  background-color: khaki;
+  color:orangered;
+  font-size:1.7rem;
+  font-family:papyrus,fantasy;
+  font-weight:bold;
+  font-style:oblique;
+  text-align: center;
+}
